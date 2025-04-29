@@ -4,13 +4,18 @@
 
 In this project, I took on the role of a **scout/player analyst** for Arsenal Football Club, using data to identify **potential goal-scorer signings** from across Europe. By comparing Arsenal's top scorer to other teams in the English Premier League (EPL) and analyzing **young, efficient goal-scorers** from top European leagues, I created a data-driven shortlist for Arsenal's future transfers.
 
-## Featured Skills
+## Skills
 
-- 📊 **Python (Pandas, Matplotlib, Seaborn)**: Data wrangling, analysis, and visualization
-- 📈 **Statistical Analysis**: Composite metrics, rankings, efficiency
-- ✨ **Feature Engineering**: Custom KPIs (non-PK %, minutes/goal)
-- 🔬 **Scouting Insights**: Multi-league player evaluation
-- 🔍 **Data Validation & Cleaning**: Null checks, targeted filtering
+- 🔬 Scouting Insights (Multi-league player evaluation)
+- ✨ Feature Engineering (Custom KPIs, non-PK %, minutes/goal)
+- 📈 Statistical Analysis (Composite metrics, rankings, efficiency)
+- 📊 Data Visualization (Ranked charts, box plots)
+- 🔍 Data Validation & Cleaning (Null checks, targeted filtering)
+
+## Tools
+
+- 🐍 Python (Pandas, Matplotlib, Seaborn)
+- 📓 Jupyter Notebook
 
 ## Project Structure
 
