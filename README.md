@@ -4,6 +4,8 @@
 
 In this project, I took on the role of a **scout/player analyst** for Arsenal Football Club, using data to identify **potential goal-scorer signings** from across Europe. By comparing Arsenal's top scorer to other teams in the English Premier League (EPL) and analyzing **young, efficient goal-scorers** from top European leagues, I created a data-driven shortlist for Arsenal's future transfers.
 
+![Top Scorers Hero Visual](top_scorers_hero.png)
+
 ## Skills
 
 - 🔬 Scouting Insights (Multi-league player evaluation)
